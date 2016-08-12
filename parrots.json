@@ -93,5 +93,49 @@
     {
         "gif": "shufflepartyparrot.gif",
         "name": "Shuffle Party Parrot"
+    },
+    {
+        "gif": "ice-cream-parrot.gif",
+        "name": "Ice Cream Parrot"
+    },
+    {
+        "gif": "sassyparrot.gif",
+        "name": "Sassy Parrot"
+    },
+    {
+        "gif": "aussiecongaparrot.gif",
+        "name": "Aussie Conga Line Parrot"
+    },
+    {
+        "gif": "aussiereversecongaparrot.gif",
+        "name": "Aussie Reverse Conga Line Parrot"
+    },
+    {
+        "gif": "parrotwave1.gif",
+        "name": "Parrot Wave (1)"
+    },
+    {
+        "gif": "parrotwave2.gif",
+        "name": "Parrot Wave (2)"
+    },
+    {
+        "gif": "parrotwave3.gif",
+        "name": "Parrot Wave (3)"
+    },
+    {
+        "gif": "parrotwave4.gif",
+        "name": "Parrot Wave (4)"
+    },
+    {
+        "gif": "parrotwave5.gif",
+        "name": "Parrot Wave (5)"
+    },
+    {
+        "gif": "parrotwave6.gif",
+        "name": "Parrot Wave (6)"
+    },
+    {
+        "gif": "parrotwave7.gif",
+        "name": "Parrot Wave (7)"
     }
 ]
